@@ -11,7 +11,6 @@ async function readFileAsync(path: string) {
 }
 
 Top.getInitialPrpos = async ({ params }) => {
-  console.log(params)
   return { markdown: (await readFileAsync(join(__dirname, `../../docs/${params.id}.md`))).toString("utf-8") };
 }
 
