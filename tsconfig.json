@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "target": "ES5",
+    "module": "commonjs",
+    "lib": ["DOM", "ES2015"],
+    "jsx": "react",
+    "jsxFactory": "h",
+    "isolatedModules": true,
+    "strict": true,
+    "typeRoots": ["@types", "node_modules/@types"],
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true
+  }
+}

@@ -3438,10 +3438,10 @@ nwsapi@^2.1.3:
   resolved "https://registry.yarnpkg.com/nwsapi/-/nwsapi-2.2.0.tgz#204879a9e3d068ff2a55139c2c772780681a38b7"
   integrity sha512-h2AatdwYH+JHiZpv7pt/gSX1XoRGb7L/qSIeuqA6GwYoF9w1vP1cw42TO0aI2pNyshRK5893hNSl+1//vHK7hQ==
 
-nzxt@^0.1.0:
-  version "0.1.0"
-  resolved "https://registry.yarnpkg.com/nzxt/-/nzxt-0.1.0.tgz#671f050e27c4bfb78c977cb159218350c37bc32c"
-  integrity sha512-plLKhXTEl5LOrA98Nwp74vN4MjqGhN5e93fwHFR8V/QU/Niggjp9Gh2AmMUol5Bevl6BS5eyoiP7FhmCzcQvXA==
+nzxt@^0.1.3:
+  version "0.1.3"
+  resolved "https://registry.yarnpkg.com/nzxt/-/nzxt-0.1.3.tgz#b00a16d316d2d919d302077ebc7b0019a08db92d"
+  integrity sha512-rFwy33AenNODPuAEFSQbTgfVKWxPXgW54AFJXkvDmcYR+7gvDSkxJ25+jrn2FzdefqRKPio79p65VWC2QTFDgA==
   dependencies:
     "@babel/core" "^7.11.6"
     "@types/babel__core" "^7.1.10"
@@ -3450,7 +3450,7 @@ nzxt@^0.1.0:
     summer-framework "^0.2.4"
     ts-node "^9.0.0"
     typescript "^4.0.3"
-    zheleznaya "^0.1.2"
+    zheleznaya "^0.1.5"
 
 oauth-sign@~0.9.0:
   version "0.9.0"
@@ -5275,9 +5275,9 @@ yn@3.1.1:
   resolved "https://registry.yarnpkg.com/yn/-/yn-3.1.1.tgz#1e87401a09d767c1d5eab26a6e4c185182d2eb50"
   integrity sha512-Ux4ygGWsu2c7isFWe8Yu1YluJmqVhxqK2cLXNQA5AcC3QfbGNpM7fu0Y8b/z16pXLnFxZYvWhd3fhBY9DLmC6Q==
 
-zheleznaya@^0.1.2:
-  version "0.1.2"
-  resolved "https://registry.yarnpkg.com/zheleznaya/-/zheleznaya-0.1.2.tgz#44b441828b1c229d0a24ea8f589b6d33f5e75ecd"
-  integrity sha512-HM/KAkRdNmM22nXxA4gG3XR2FArPk9oEv0VT4lZJwvm2Al5nRQEy/eMunuUPCkOe5izqa2wkY5+WEsdZSdxcVg==
+zheleznaya@^0.1.5:
+  version "0.1.5"
+  resolved "https://registry.yarnpkg.com/zheleznaya/-/zheleznaya-0.1.5.tgz#60bb30457687b5b7e9c8547fb23678269e857e7b"
+  integrity sha512-Ba0y3M/1ddKBnVPsWgablrtjbozCQ3685BqIF74o7vjC05GLSfqr13PvxoHirbEpnTKP87xOsyD93LeogwXX7g==
   dependencies:
     typescript "^3.8.2"

@@ -4,7 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
-    "nzxt": "^0.1.0"
+    "nzxt": "^0.1.3"
   },
   "scripts": {
     "start": "nzxt"
